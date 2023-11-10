@@ -1,0 +1,28 @@
+.logo{
+    width: 30%;
+}
+
+.textBox{
+    position: relative;
+    max-width: 600px;
+
+}
+a {
+    text-decoration: none;
+    color: #2f2f2f;
+}
+
+.blogImg{
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+.circle::after{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #017143;
+    clip-path: circle(600px at right 800px);
+}

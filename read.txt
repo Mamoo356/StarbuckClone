@@ -1,0 +1,8 @@
+สิ่งที่ต้องมี
+-Home
+-shop
+- product detail
+-cart checkout list 
+- contact us 
+
+อย่าลืมทำ footer
