@@ -26,3 +26,11 @@ a {
     background: #017143;
     clip-path: circle(600px at right 800px);
 }
+.card{
+    width: calc(100%/3);
+} 
+
+.line{
+    border: 1px solid rgb(127, 123, 123);
+    margin: 50px;
+}
